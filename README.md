@@ -1,4 +1,4 @@
-# Default_Credit_card _Prediction
+# Default_Credit_Card _Prediction
 
 **Problem Statement** - 
 The aim of this prediction model is to predict the default credit card payments - ie whether the client is credible or non credible.
